@@ -6,6 +6,7 @@
     background-position: center;
     background-size: 100% 100%;
     padding: 50px;
+    opacity: 0.8;
 
 }
 
@@ -14,11 +15,19 @@
 }
 
 body, html {
-    height: 100%;
+
+}
+
+
+body {
+    background-image: url("/imgs/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .body {
-    background-image: url("/imgs/border1.jpg");
+    background-image: url("/imgs/body.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -26,12 +35,18 @@ body, html {
     margin: 0 auto;
     min-height: 600px;
     padding: 50px;
+    opacity: 0.8;
 }
 
-body {
-    background-image: url("/imgs/background.jpg");
-    height: 100%;
-    background-position: center;
+
+.head {
+    background-image: url("/imgs/head.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 100%;
+    margin: 0 auto;
+    min-height: 300px;
+    padding: 50px;
+    opacity: 0.8;
 }

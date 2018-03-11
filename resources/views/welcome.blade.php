@@ -14,7 +14,12 @@
             {{--</p>--}}
         {{--</div>--}}
 
-        @include('includes/nav')
+        {{--@include('includes/nav')--}}
+
+        <div class="row">
+            <div class="head"></div>
+
+        </div>
 
         <div class="row mt-5">
             <div class="col-md-12 h-100">
@@ -22,11 +27,15 @@
                 <div class="col-md-4 sidebar float-left">
 
                     <div class="col-md-12 box">
-                        registrace
+                        {{--registrace--}}
                     </div>
-                    <div class="col-md-12 mt-4 box">farma</div>
-                    <div class="col-md-12 mt-4 box">ostatní</div>
-                    <div class="col-md-12 mt-4 box">statistika</div>
+                    <div class="col-md-12 mt-4 box">
+                        {{--farma--}}
+                    </div>
+                    {{--<div class="col-md-12 mt-4 box">--}}
+                    {{----}}
+                    {{--</div>--}}
+                    {{--<div class="col-md-12 mt-4 box">statistika</div>--}}
 
 
                 </div>
