@@ -12,7 +12,7 @@
 
         <div class="bodyimg">
 
-            <div class="text" style="margin-top: -120px;">
+            <div class="text" style="margin-top: -60px;">
 
                 <p>Každé doplnění zůstatku obdržíte od osoby, kterou jste pozvali, stříbrnou . Příjem je neomezený. Dokonce i několik hostů vám může přinést více než 100 000 stříbra.</p>
 

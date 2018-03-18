@@ -12,7 +12,7 @@
 
         <div class="bodyimg">
 
-            <div class="text" style="margin-top: -120px;">
+            <div class="text" style="margin-top: -60px;">
 
                 <p>V tomto obchodě si můžete koupit různé ptáky. Každý pták přináší zvláštní vejce, které pak mohou být prodávány na trhu a vyměňovány za skutečné peníze. Každý pták dává jiný počet vajec, čím dražší je, tím víc to přináší. Můžete si koupit neomezený počet ptáků.</p>
 

@@ -12,7 +12,7 @@
 
             <div class="bodyimg">
 
-                <table class="table table-striped" style="margin-top: -120px; width: 100%">
+                <table class="table table-striped" style="margin-top: -60px; width: 100%">
 
                     <tbody>
                     <tr>

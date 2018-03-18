@@ -183,7 +183,7 @@ body, html {
 
 .sidebartop {
     margin-top:  -55px;
-    width: 80%;
+    width: 240px;
     margin-left: auto;
     margin-right:auto;
     height: 80px;
@@ -205,8 +205,8 @@ body, html {
 }
 
 .bodytop {
-    margin-bottom: -66px;
-    width: 200px;
+    margin-bottom: -55px;
+    width: 240px;
     margin-left: auto;
     margin-right:auto;
     height: 80px;
@@ -226,7 +226,7 @@ body, html {
 }
 
 .bodytopimg h4 {
-    padding-top: 50px;
+    padding-top: 60px;
 }
 
 
@@ -241,13 +241,12 @@ body {
     background-image: url("/imgs/bodyhead.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
+    background-size: 100% 140px;
     margin: 0 auto;
-    height: 230px;
+    height: 140px;
     padding-left: 50px;
     padding-right: 50px;
-    padding-top: 40px;
-    padding-bottom: 5px;
+
 }
 
 
@@ -266,8 +265,8 @@ body {
     background-image: url("/imgs/bodybottom.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
-    height: 230px;
+    background-size: 100% 140px;
+    height: 140px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 20px;

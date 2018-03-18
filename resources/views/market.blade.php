@@ -12,7 +12,7 @@
 
         <div class="bodyimg">
 
-            <div class="text" style="margin-top: -120px;">
+            <div class="text" style="margin-top: -60px;">
 
                 <p>Maloobchodní prodejna vám umožní prodávat všechny vaše vejce za stříbro, které lze vyměnit za skutečné peníze. Stříbro získané z prodeje se rozděluje mezi dva účty (účet pro nákupy a faktura za stažení) v poměru: 70% na účtu u nákupů a 30% na stažen</p>
 
