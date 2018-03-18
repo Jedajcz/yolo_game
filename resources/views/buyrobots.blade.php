@@ -4,7 +4,7 @@
 
     <div class="col-md-8 float-left body">
         <div class="bodytop col-md-12 text-center ">
-            <h1>Obchod </h1>
+            <h1>Rekrutace </h1>
         </div>
 
         <div class="bodytopimg">

@@ -17,7 +17,7 @@
                   <div class="silver" style="vertical-align: middle;"></div><p class="username pt-2">72400</p>
               </div>
               <div class="col mt-3 float-left ">
-                  <div class="gold" style="vertical-align: middle"></div><p class="username pt-2">2400</p>
+                  <div class="gold" style="vertical-align: middle"></div><p class="username pt-2">724</p>
               </div>
 
         </div>
@@ -50,10 +50,10 @@
                 <a class="nav-link" href="{{route('store')}}"><div class="store"></div>Sklad</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"><div class="shop"></div>Obchod</a>
+                <a class="nav-link" href="{{route('market')}}"><div class="shop"></div>Obchod</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"><div class="money"></div>Výměna</a>
+                <a class="nav-link" href="{{route('exchange')}}"><div class="money"></div>Výměna</a>
             </li>
         </ul>
     </div>
@@ -68,7 +68,7 @@
                 <a class="nav-link" href="#"><div class="profit"></div>Vypočítat zisk</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"><div class="recomanded"></div>Mé doporučení</a>
+                <a class="nav-link" href="{{route('partners')}}"><div class="recomanded"></div>Mé doporučení</a>
             </li>
 
         </ul>

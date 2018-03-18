@@ -28,4 +28,16 @@ class MainController extends Controller
     {
         return view('store');
     }
+    public function market()
+    {
+        return view('market');
+    }
+    public function exchange()
+    {
+        return view('exchange');
+    }
+    public function partners()
+    {
+        return view('partners');
+    }
 }

@@ -285,15 +285,14 @@ h2 {
 
 
 .head {
-    /*background-image: url("/imgs/body3.png");*/
-    background-repeat: no-repeat;s
+    background-image: url("/imgs/head2.png");
+    background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
     width: 100%;
     margin: 0 auto;
     min-height: 300px;
-    padding: 50px;
-    position: relative;
+  margin-top: 30px;
 }
 
 

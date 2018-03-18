@@ -16,10 +16,10 @@
             <div class="text" style="margin-top: -60px;">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <ul>
-                    <li>1) Kupte si roboty , budou vám těžit zlato.</li>
-                    <li>2) Zlato se hromadí ve skladu, uskladni ho!</li>
-                    <li>3) Prodávej zlato a získavej pro ně zlaťáky</li>
-                    <li>4) Vyměňte zlaťáky za skutečné peníze nebo si kupte více robotů, aby vám přinesli ještě větší zisky!</li>
+                    <li>1) Kupte si roboty , budou vám těžit stříbro.</li>
+                    <li>2) Stříbro se hromadí ve skladu, uskladni ho!</li>
+                    <li>3) Prodávej stříbro a získavej za něj zlato</li>
+                    <li>4) Vyměň zlato za skutečné peníze nebo si kup více robotů, ty ti přinesou vyšší zysk!</li>
 
                 </ul>
                 <img src="https://placeimg.com/640/480/any" class="img image-responsive">
