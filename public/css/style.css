@@ -1,21 +1,232 @@
+
+
 .box {
     height: 400px;
     width: 100%;
-    background-image: url("/imgs/border.png");
+    background-image: url("/imgs/body3b.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
-    padding: 50px;
-    opacity: 0.8;
+    padding: 20px;
+    position: relative;
+    margin: 0 auto;
+}
 
+.diamond {
+    background-image: url("/imgs/diamond.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.profile {
+    background-image: url("/imgs/profile.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.setting {
+    background-image: url("/imgs/setting.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.logout {
+    background-image: url("/imgs/logout.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.buy {
+    background-image: url("/imgs/buy.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.store {
+    background-image: url("/imgs/store.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.shop {
+    background-image: url("/imgs/shop.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.money {
+    background-image: url("/imgs/money.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.profit {
+    background-image: url("/imgs/profit.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.recomanded {
+    background-image: url("/imgs/recomanded.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+    margin-top: -3px;
+}
+
+.gold {
+    background-image: url("/imgs/gold.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+}
+.silver {
+    background-image: url("/imgs/silver.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 40px;
+    float: left;
+    height:40px;
+
+}
+
+.username {
+    font-size: 18px;
+    color:#1E5480;
+    font-weight: bold;
+}
+
+
+.nav-item a {
+    background: #1E5480; /* For browsers that do not support gradients */
+    background: linear-gradient(to left, rgba(30, 84, 128, 0), rgba(30, 84, 128,1)); /* Standard syntax (must be last) */
+
+    font-size: 22px;
+    margin: 5px;
+    border-radius: 2px;
+    color:black;
+    /*background: #1E5480;*/
+    text-indent: 10px;
+}
+
+.nav-item a:hover {
+    background: #2a74b2;
+    background: linear-gradient(to left, rgba(42, 116, 178, 0), rgba(42, 116, 178,1)); /* Standard syntax (must be last) */
+
+}
+
+
+
+body, html {
+    color:black;
+}
+
+.blue {
+    color: #1E5480;
 }
 
 .sidebar {
-    padding-left: 0px;
+    margin-top:  25px;
 }
 
-body, html {
+.sidebartop {
+    margin-top:  -55px;
+    width: 80%;
+    margin-left: auto;
+    margin-right:auto;
+    height: 80px;
+    background-image: url("/imgs/head.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    /*background: #69BDB4;*/
+    /*border:1px solid #53958e;*/
+    /*border-radius: 10px;*/
+    /*box-shadow: 3px 8px #53958e;*/
+}
+.sidebartop h1 {
+    font-size: 26px;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
 
+.bodytop {
+    margin-bottom: -66px;
+    width: 200px;
+    margin-left: auto;
+    margin-right:auto;
+    height: 80px;
+    background-image: url("/imgs/head.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+
+.bodytop h1 {
+    font-size: 26px;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.bodytopimg h4 {
+    padding-top: 50px;
 }
 
 
@@ -26,27 +237,64 @@ body {
     background-size: cover;
 }
 
-.body {
-    background-image: url("/imgs/body.png");
+.bodytopimg {
+    background-image: url("/imgs/bodyhead.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
-    width: 90%;
     margin: 0 auto;
-    min-height: 600px;
-    padding: 50px;
-    opacity: 0.8;
+    height: 230px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+
+.bodyimg {
+    background-image: url("/imgs/bodycenter.png");
+    background-repeat: repeat-y;
+    background-size: 100% ;
+    min-height: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+
+}
+
+.bodybottomimg {
+    background-image: url("/imgs/bodybottom.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 230px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+.img {
+    width: 100%;
+    margin: 0 auto;
+
 }
 
 
 .head {
-    background-image: url("/imgs/head.png");
-    background-repeat: no-repeat;
+    /*background-image: url("/imgs/body3.png");*/
+    background-repeat: no-repeat;s
     background-position: center;
     background-size: 100% 100%;
     width: 100%;
     margin: 0 auto;
     min-height: 300px;
     padding: 50px;
-    opacity: 0.8;
+    position: relative;
 }
+
+
+

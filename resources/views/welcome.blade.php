@@ -2,52 +2,32 @@
 
 @section('content')
 
-    <div class="container">
-
-        {{--<div class="jumbotron">--}}
-            {{--<h1 class="display-4">Hello, world!</h1>--}}
-            {{--<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>--}}
-            {{--<hr class="my-4">--}}
-            {{--<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>--}}
-            {{--<p class="lead">--}}
-                {{--<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>--}}
-            {{--</p>--}}
-        {{--</div>--}}
-
-        {{--@include('includes/nav')--}}
-
-        <div class="row">
-            <div class="head"></div>
-
+    <div class="col-md-8 col-xs-12 float-left" style="position: relative">
+        <div class="bodytop col-md-12 text-center ">
+            <h1>Vítejte </h1>
         </div>
 
-        <div class="row mt-5">
-            <div class="col-md-12 h-100">
+        <div class="bodytopimg">
+            <h4 class="text-center">Investiční farma s výběrem hotovosti
+                Zaručujeme stabilní příjem
+            </h4>
+        </div>
+        <div class="bodyimg">
+            <div class="text" style="margin-top: -60px;">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <ul>
+                    <li>1) Kupte si roboty , budou vám těžit zlato.</li>
+                    <li>2) Zlato se hromadí ve skladu, uskladni ho!</li>
+                    <li>3) Prodávej zlato a získavej pro ně zlaťáky</li>
+                    <li>4) Vyměňte zlaťáky za skutečné peníze nebo si kupte více robotů, aby vám přinesli ještě větší zisky!</li>
 
-                <div class="col-md-4 sidebar float-left">
-
-                    <div class="col-md-12 box">
-                        {{--registrace--}}
-                    </div>
-                    <div class="col-md-12 mt-4 box">
-                        {{--farma--}}
-                    </div>
-                    {{--<div class="col-md-12 mt-4 box">--}}
-                    {{----}}
-                    {{--</div>--}}
-                    {{--<div class="col-md-12 mt-4 box">statistika</div>--}}
-
-
-                </div>
-
-                <div class="col-md-8 float-left body">
-                    body
-                </div>
-
-
+                </ul>
+                <img src="https://placeimg.com/640/480/any" class="img image-responsive">
             </div>
         </div>
-
+        <div class="bodybottomimg"></div>
     </div>
+
+
 
 @endsection
